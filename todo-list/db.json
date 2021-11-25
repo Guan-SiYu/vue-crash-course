@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "info": "想你",
+      "day": "周五 12:00",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "info": "搓一顿茶点轩",
+      "day": "周三 8:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "info": "去华发看电影",
+      "day": "周日 17:00",
+      "reminder": true
+    },
+    {
+      "info": "再来一遍",
+      "day": "周一 14:00",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "info": "逛街",
+      "day": "周六 19:30",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
